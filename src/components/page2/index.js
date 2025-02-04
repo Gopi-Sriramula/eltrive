@@ -10,6 +10,13 @@ const images = [
   "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPk5_syYdpJr2TpBv9JqVeIuQx_4sVY3zUxQ&s",
   "https://cdn.builtin.com/cdn-cgi/image/f=auto,fit=cover,w=1200,h=635,q=80/https://builtin.com/sites/www.builtin.com/files/2023-06/industrial%20automation%20companies.jpg",
   "https://www.progressiveautomations.com/cdn/shop/articles/smart-home.jpg?v=1650900438&width=1100",
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6z9WHE9I_6nPBJLpSBtMZI1xf-qNKB37VYA&s",
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-DCA-YT7h3q2oC8f2st5outpi0P7twLzq2g&s",
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbq26G7coPcPJUs0FkuJbQuC1E7HzRWTFTzA&s",
+  "https://www.asiius.com/Theme/images/videos/robot.jpg",
+  "https://automationedge.com/wp-content/uploads/2024/02/125-1.webp",
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG_DrX3maW_JJyFRLl7kMxtH-lrXCTHwUnvQ&s",
+  "https://dc-mkt-prod.cloud.bosch.tech/us/media/campaigns/factory_automation/01_factory_automation_homepage/fa-hero_1920x1080.jpg",
 ];
 function ProductsServices() {
   const [state, setState] = useState(false);
