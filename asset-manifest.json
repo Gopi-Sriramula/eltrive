@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/eltrive/static/css/main.f3ad2f95.css",
+    "main.js": "/eltrive/static/js/main.70399148.js",
+    "static/media/Automation.jpg": "/eltrive/static/media/Automation.56c15df5947e63708d77.jpg",
+    "static/media/evTech.webp": "/eltrive/static/media/evTech.800cccd31f49645f6a92.webp",
+    "static/media/ev.jpg": "/eltrive/static/media/ev.578795678d9949d8d04b.jpg",
+    "index.html": "/eltrive/index.html",
+    "main.f3ad2f95.css.map": "/eltrive/static/css/main.f3ad2f95.css.map",
+    "main.70399148.js.map": "/eltrive/static/js/main.70399148.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3ad2f95.css",
+    "static/js/main.70399148.js"
+  ]
+}
